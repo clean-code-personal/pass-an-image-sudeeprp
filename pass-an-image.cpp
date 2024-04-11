@@ -1,6 +1,8 @@
 #include <iostream>
 #include "brightener.h"
 
+//changes
+
 int main() {
     Image image;
     image.rows = 512;
